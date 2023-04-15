@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header section ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Main Page Logo */
 .hero {
     height: 800px;
     width: 100%;
@@ -134,6 +135,7 @@ p {
     max-width: 150px;
 }
 
+/* Link formatting */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
