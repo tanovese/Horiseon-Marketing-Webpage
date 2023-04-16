@@ -20,4 +20,4 @@ The HTML and CSS code for this project was cloned from the start code in BCS. Th
 
 ## License
 
-MIT License
+N/A
