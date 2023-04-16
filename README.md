@@ -14,6 +14,10 @@ Click the links at the top of the page to explore what marketing tools Horiseon 
 
 ## Screenshot and Link to Application
 
+![HoriseonMarketingMockup](./images/HoriseonMarketingphoto.png)
+
+Link: https://tanovese.github.io/HoriseonMarketing/
+
 ## Credits
 
 The HTML and CSS code for this project was cloned from the start code in BCS. The images were cloned from the starter code in BCS. The README template from the prework study guide project was used as a guide.
